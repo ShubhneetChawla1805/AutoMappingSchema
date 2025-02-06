@@ -6,7 +6,7 @@
 
 **Partial ratio** 
 ---------------------------------------------------------------------
-The **Partial ratio** helps us to performsubstring matching. This **takes the shortest string and compares it with all the substrings of the same length.**
+The **Partial ratio** helps us to perform substring matching. This **takes the shortest string and compares it with all the substrings of the same length.**
 
 Str1 = "My name is Shubhneet"	|| Str2 = "My name is Shubhneet Chawla"
 
